@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.98de75bf.css",
+    "main.js": "/static/js/main.f2fe66d1.js",
+    "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
+    "static/media/graduation-cap.png": "/static/media/graduation-cap.5e02d3320f49da3e52ab.png",
+    "static/media/MyPhoto.jpg": "/static/media/MyPhoto.2f2de9dada611b2f4369.jpg",
+    "static/media/baby.svg": "/static/media/baby.c38496d90efeb978cc69a10facd4dd37.svg",
+    "index.html": "/index.html",
+    "main.98de75bf.css.map": "/static/css/main.98de75bf.css.map",
+    "main.f2fe66d1.js.map": "/static/js/main.f2fe66d1.js.map",
+    "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98de75bf.css",
+    "static/js/main.f2fe66d1.js"
+  ]
+}
